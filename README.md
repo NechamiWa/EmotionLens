@@ -38,8 +38,8 @@ EmotionLens is an advanced platform that leverages AI to analyze the facial expr
 ![EmotionLens Import](./emotionlens/integrate.png)
 
 ### Technologies Used
-- **Frontend**: React.js
-- **Backend**: Python
+- **Frontend**: React (TypeScript, Bootstrap, PrimeReact)
+- **Backend**: Python (Flask)
 - **Database**: MySQL
 - **AI Model**: Facial emotion recognition using OpenCV and deep learning models
 
