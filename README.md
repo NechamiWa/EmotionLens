@@ -66,11 +66,3 @@ Stay tuned for updates on the progress of EmotionLens!
 ### Contact
 
 For more information or inquiries, please reach out to the EmotionLens team at [emotienlens.help@gmail.com].
-
-### Snashpots
-
-![EmotionLens Home](./emotionlens/emotionlens_home.png)
-![EmotionLens Explanation](./emotionlens/emotionlens_home_2.png)
-![EmotionLens Notifications](./emotionlens/notifications.png)
-![EmotionLens Notifications](./emotionlens/צילום%20מסך%202024-08-15%20220842.png)
-![EmotionLens Notifications](./emotionlens/צילום%20מסך%202024-08-15%20220924.png)
